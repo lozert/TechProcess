@@ -1,0 +1,596 @@
+PARENT_OBOZN: ТП3
+PARENT_NAME: ЗАВИХРИТЕЛЬ
+PARENT_TYPE: MEProcess
+PARENT_REV: 00
+PARENT_STATUS: Утвержденный
+PARENT_TIME: 3.6
+PARENT_N_ZAKAZ: 1-16-1276
+PARENT_VID: Постоянный
+PARENT_TYPE_TD: Единичный
+PARENT_TRUD: 0.0
+PARENT_CREATOR: Нигматуллин
+PARENT_DATE_CREATED: 05.01.17
+PARENT_DEPART: ТО-23-4
+TARGETS_COUNT: 1
+OBJ_OBOZN: Draw05
+OBJ_NAME: ЗАВИХРИТЕЛЬ
+OBJ_TYPE: aDetal
+OBJ_MD: 0.0
+WORKAREA_COUNT: 1
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 23
+FILES_COUNT: 1
+PATH: O:\OGT\АРХИВ_УТВЕРЖДЕННЫХ_Т_5_9747\A948137.dwg
+NAME: Cad585169.dwg
+OPERS_COUNT: 16
+ZAGOT_COUNT: 1
+OBJ_OBOZN: СЛDraw05
+OBJ_NAME: ЗАВИХРИТЕЛЬ
+MATERIAL: ЭП648 ТУ 08.289
+MARKA_KE: ЭП648
+EV: кг
+NORMA: 0.211
+OBJ_KIM: 0.0
+VID_Z: Заготовка СЛС
+PR_I_RAZ: СЛDraw05
+KOL: 1.0
+GR_OTH: Помарочно
+PROFIL: СЛDraw05
+OBJ_NAME: Контроль
+OBJ_TYPE: MEOP
+OBJ_POZ: 010
+OBJ_TIME: 0.100
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-50
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Контролировать внешний вид и наличие клейма за годность заготовки
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Контролировать фактические размеры согласно эскизу
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Размеры записать в сопроводительную карту
+OBJ_NAME: Токарная с ЧПУ
+OBJ_TYPE: MEOP
+OBJ_POZ: 020
+OBJ_TIME: 0.750
+OBJ_DOP_INF: КЭ-1; КН-1
+RESURS_COUNT: 9
+OBJ_OBOZN: ИОТ-200
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Токарный сЧПУ SMART-TURN7
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: А6022-9819
+OBJ_NAME: Калибр
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: МК 50-1 ГОСТ 6507-90
+OBJ_NAME: Микрометр
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: SDJCR 1616H11
+OBJ_NAME: Державка
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: DCGT 11T304-1L 9605
+OBJ_NAME: Пластина
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 70
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: A08H-SCLCR06
+OBJ_NAME: Державка
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 80
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: CCMT060204-PM5 9605
+OBJ_NAME: Пластинка
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 90
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Токарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 030
+OBJ_TIME: 0.500
+RESURS_COUNT: 2
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Токарный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Точить разрезной патрон для операции 040
+OBJ_NAME: Токарная с ЧПУ
+OBJ_TYPE: MEOP
+OBJ_POZ: 040
+OBJ_TIME: 0.667
+OBJ_DOP_INF: КЭ-2; КН-2
+RESURS_COUNT: 9
+OBJ_OBOZN: ИОТ-200
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Токарный сЧПУ SMART-TURN7
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: МК 25-1 ГОСТ 6507-90
+OBJ_NAME: Микрометр
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: A08H-SCLCR06
+OBJ_NAME: Державка
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: CCMT060204-PM5 9605
+OBJ_NAME: Пластинка
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 70
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: SDJCR 1616H11
+OBJ_NAME: Державка
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 80
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: DCGT 11T304-1L 9605
+OBJ_NAME: Пластина
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 90
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Фрезерная
+OBJ_TYPE: MEOP
+OBJ_POZ: 050
+OBJ_TIME: 0.416
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-2
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Вертикально-фрезерный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Фрезеровать лыски, выдерживая размер 32-0,25 согласно чертежу.
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Допуск симметричности относительно оси @25h12 T/2 0.1
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Шероховатость обработаной поверхности Ra=6.3 мкм.
+OBJ_NAME: Слесарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 060
+OBJ_TIME: 0.167
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-192
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Зачистить заусенцы
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Притупить острые кромки 0,1...0,4.
+OBJ_NAME: Промывка
+OBJ_TYPE: MEOP
+OBJ_POZ: 070
+OBJ_TIME: 0.100
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-165
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.25279.00125
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: УЗВ -15М установка
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Контроль визуальный
+OBJ_TYPE: MEOP
+OBJ_POZ: 080
+OBJ_TIME: 0.100
+RESURS_COUNT: 2
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Контроль визуальный на отсутствие дефектов механического происхождения (риски, забоины, вмятины и др.). Контроль шероховатости на соответствие требований чертежа.
+OBJ_NAME: Промывка нефрасом
+OBJ_TYPE: MEOP
+OBJ_POZ: 090
+OBJ_TIME: 0.100
+RESURS_COUNT: 4
+OBJ_OBOZN: 602.25001.00256
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: ИОТ-56
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: 1861-00 установка
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Контроль ЦМ15-В
+OBJ_TYPE: MEOP
+OBJ_POZ: 100
+OBJ_TIME: 0.100
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-151
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: И08.327
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Специальная установка
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: При обнаружении дефектов предъявить конструктору.
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Расход материалов:жидкость"К"- 1,3 г; масло трансформаторное - 1,3 г; керосин- 1,2 г; краска"М"- 2,4 г.
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Sпов.=0,01м$2;$
+OBJ_NAME: Маркирование на бирке
+OBJ_TYPE: MEOP
+OBJ_POZ: 110
+OBJ_TIME: 0.100
+RESURS_COUNT: 3
+OBJ_OBOZN: 602.25001.00105
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Контроль
+OBJ_TYPE: MEOP
+OBJ_POZ: 120
+OBJ_TIME: 0.100
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-50
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Контролировать согласно чертежу
+OBJ_NAME: Продувка
+OBJ_TYPE: MEOP
+OBJ_POZ: 130
+OBJ_TIME: 0.100
+RESURS_COUNT: 4
+OBJ_OBOZN: И08.153
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.021
+OBJ_NAME: Цех 021
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Установка специальная
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: А63643-8553
+OBJ_NAME: Приспособление для продувки
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Определить коэффициент расхода воздуха по 100-03-064 И250
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Результаты передать в КО-203
+OBJ_NAME: Хонингование  экструзивное
+OBJ_TYPE: MEOP
+OBJ_POZ: 140
+OBJ_TIME: 0.100
+OBJ_DESC: Опер.140 Экструзивное хонингование выполнять в случае необходимости по указанию КО-203.
+В цех 15 детали отправлять со справкой о результатах продувки.
+RESURS_COUNT: 3
+OBJ_OBOZN: 602.015
+OBJ_NAME: Цех 015
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Установка специальная
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: А6378-9837
+OBJ_NAME: Приспособление
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Выполнить экструзивное хонингование согласно чертежу по ТП 94-03-1375 и др., опер. 1300, 1305, 1310
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Согласовано с цехом 15: Чусовитина О.Т.
+OBJ_NAME: Контроль
+OBJ_TYPE: MEOP
+OBJ_POZ: 150
+OBJ_TIME: 0.100
+OBJ_DESC: После опер. 140 Хонингование экструзивное повторить опер. 130 Продувка
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-50
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Контролировать согласно чертежу
+OBJ_NAME: Консервация
+OBJ_TYPE: MEOP
+OBJ_POZ: 160
+OBJ_TIME: 0.100
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-192
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.023
+OBJ_NAME: Цех 023
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: А6383-9146
+OBJ_NAME: Тара
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Завернуть деталь в парафинированную бумагу БП-3-35 ГОСТ 9569-2006
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Завернуть деталь в оберточную бумагу ГОСТ 8273-75
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Срок хранения 4 года

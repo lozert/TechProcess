@@ -1,0 +1,785 @@
+PARENT_OBOZN: ТП5
+PARENT_NAME: Крышка
+PARENT_TYPE: MEProcess
+PARENT_REV: 01
+PARENT_STATUS: Утвержденный
+PARENT_TIME: 5.0
+PARENT_N_ZAKAZ: 1-16-2097
+PARENT_VID: Постоянный
+PARENT_TYPE_TD: Единичный
+PARENT_TRUD: 16.0
+PARENT_CREATOR: Егорова
+PARENT_DATE_CREATED: 01.02.17
+PARENT_DEPART: ТО-20-6
+PARENT_DATE_IZM: 15.05.17
+PARENT_N_IZV: 540-1551
+TARGETS_COUNT: 1
+OBJ_OBOZN: Draw12-01
+OBJ_NAME: Крышка
+OBJ_TYPE: aDetal
+OBJ_MD: 0.26
+WORKAREA_COUNT: 1
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 20
+FILES_COUNT: 1
+PATH: O:\OGT\АРХИВ_УТВЕРЖДЕННЫХ_Т_5_9747\A981124^2.dwg
+NAME: Cad587427.dwg
+OPERS_COUNT: 21
+ZAGOT_COUNT: 1
+OBJ_NAME: Лист БТ
+MATERIAL: 12Х18Н10Т-М  ТУ 14-1-2186-77; ГОСТ 19904-90
+MARKA_KE: 12Х18Н10Т-М
+EV: кг
+NORMA: 0.3245
+OBJ_KIM: 0.801
+VID_Z: Лист БТ
+PR_I_RAZ: 0.5 x 290 x 515
+KOL: 2.0
+M_ZAG: 0.5899
+OTHOD: 0.0626
+GR_OTH: Б26
+OBJ_NAME: Контроль материала
+OBJ_TYPE: MEOP
+OBJ_POZ: 005
+OBJ_DESC: Эскиз оснастки КЭ-4
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-50
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Слесарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 010
+OBJ_TIME: 0.333
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-192,-135,-73
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак. Ножницы гильотинные Н-475
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Разметить, вырезать заготовку 290±1 х 515±1 на две шт. дет.
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Размеры заготовки уточнить при изготовлении первой детали.
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Зачистить заусенцы
+PARAM_TYPE: Переход
+PARAM_NUM: 40
+PARAM_DESC: Отрихтовать. Допуск плоскостности 1.5
+OBJ_NAME: Лазерная
+OBJ_TYPE: MEOP
+OBJ_POZ: 020
+OBJ_TIME: 0.583
+OBJ_DOP_INF: КЭ-1
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-273
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Установка TruLaser Cell 7020
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: Ф1.4 №913801
+OBJ_NAME: Сопло
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Режим
+PARAM_NUM: 10
+PARAM_DESC: AVID-Y1T-05, контур 200
+OBJ_NAME: Слесарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 025
+OBJ_TIME: 0.583
+RESURS_COUNT: 5
+OBJ_OBOZN: ИОТ-73
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: ИОТ-192
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак,  машина листогибочная трехвалковая
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.6510-00020.003
+OBJ_NAME: Прижим
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Зачистить  выплески металла. Зачистить технологические перемычки, не нарушая  наружного контура детали, если потребуется.
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Вальцевать заготовку  , проверяя прилегания профиля по прижиму поз 3 согласно КЭ-2
+OBJ_NAME: Вытяжка
+OBJ_TYPE: MEOP
+OBJ_POZ: 030
+OBJ_TIME: 0.833
+OBJ_DOP_INF: КЭ-2
+RESURS_COUNT: 6
+OBJ_OBOZN: ИОТ-133
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Пресс гидравлический PVE-250 S1M  250т
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.6510-00020
+OBJ_NAME: Штамп вытяжной
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00196
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Промывка
+OBJ_TYPE: MEOP
+OBJ_POZ: 035
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-165
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.25001.00308
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Комплекс ультразвуковой очистки "Кристалл-УЗК-07"
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Обезжиривание
+OBJ_TYPE: MEOP
+OBJ_POZ: 040
+RESURS_COUNT: 3
+OBJ_OBOZN: 602.25271.00219
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.027
+OBJ_NAME: Цех 027
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Ванна
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Термическая обработка
+OBJ_TYPE: MEOP
+OBJ_POZ: 045
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-110
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: ТТП 541.072
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.027
+OBJ_NAME: Цех 027
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Печь
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Травление
+OBJ_TYPE: MEOP
+OBJ_POZ: 050
+RESURS_COUNT: 3
+OBJ_OBOZN: ТТП 541.017 и 602.4430151.000007 (ВТП)
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.027
+OBJ_NAME: Цех 027
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Ванна
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Слесарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 055
+OBJ_TIME: 0.334
+RESURS_COUNT: 5
+OBJ_OBOZN: ИОТ-192,73
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00196
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Проверить размеры согласно КЭ-2
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Проверить  профиль   детали   по  шаблону. Зазор не более 0.8.
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Отрихтовать дно. Допуск плоскостности 0.5
+OBJ_NAME: Калибровка
+OBJ_TYPE: MEOP
+OBJ_POZ: 060
+OBJ_TIME: 0.584
+OBJ_DESC: Операцию 060 выполнять  при невыполнении размеров  в операции 055
+OBJ_DOP_INF: КЭ-2
+RESURS_COUNT: 6
+OBJ_OBOZN: ИОТ-133
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Пресс гидравлический PVE-250 S1M  250т
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.6510-00020
+OBJ_NAME: Штамп вытяжной
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00196
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Калибровать деталь согласно КЭ-2
+OBJ_NAME: Разметка для операции  ,075,070
+OBJ_TYPE: MEOP
+OBJ_POZ: 065
+OBJ_TIME: 0.100
+RESURS_COUNT: 6
+OBJ_OBOZN: ИОТ-43
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.25001.00272
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Плита разметочная
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00196
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Нанести  осевые риски отв., 2 пазов и нанести риски  наружного контура согласно КЭ-3
+OBJ_NAME: Слесарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 070
+OBJ_TIME: 0.500
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-192,73
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Выполнить 2 паза  40±2 и 2 отв.Ф6  по   разметке согласно КЭ-3
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Зачистить заусенцы.
+OBJ_NAME: Лазерная
+OBJ_TYPE: MEOP
+OBJ_POZ: 075
+OBJ_TIME: 0.750
+OBJ_DOP_INF: КЭ-3
+RESURS_COUNT: 6
+OBJ_OBOZN: ИОТ-273
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Установка TruLaser Cell 7020
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: Ф1.4 №913801
+OBJ_NAME: Сопло
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.63703-28804
+OBJ_NAME: УСП
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Режим
+PARAM_NUM: 10
+PARAM_DESC: AVID-Y1T-05, контур 200
+OBJ_NAME: Слесарная
+OBJ_TYPE: MEOP
+OBJ_POZ: 085
+OBJ_TIME: 0.500
+RESURS_COUNT: 5
+OBJ_OBOZN: ИОТ-192,73
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00196
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Зачистить выплески металла.
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Разметить отрезать техн. припуск и технологические перемычки , ненарушая размеров по торцу дет. Зачистить заусенцы.
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Проверить  профиль по шаблонам .  Зазор не более 0,8
+PARAM_TYPE: Переход
+PARAM_NUM: 40
+PARAM_DESC: Отрихтовать , если потребуется Притупить острые кромки 0.1...0.4.
+PARAM_TYPE: Переход
+PARAM_NUM: 50
+PARAM_DESC: Удалить разметочную краску хлопчато-бумажной салфеткой, смоченной в ацетоне, если потребуется.
+OBJ_NAME: Промывка
+OBJ_TYPE: MEOP
+OBJ_POZ: 090
+RESURS_COUNT: 4
+OBJ_OBOZN: ИОТ-165
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.25001.00308
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Комплекс ультразвуковой очистки "Кристалл-УЗК-07"
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Маркирование
+OBJ_TYPE: MEOP
+OBJ_POZ: 095
+RESURS_COUNT: 3
+OBJ_OBOZN: 602.25001.00105
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол рабочий
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: согласно чертежу
+OBJ_NAME: Контроль согласно чертежу  кроме покрытия
+OBJ_TYPE: MEOP
+OBJ_POZ: 100
+OBJ_TIME: 0.100
+RESURS_COUNT: 6
+OBJ_OBOZN: ИОТ-50
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: Т01-60
+OBJ_NAME: Тара
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 40
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00195
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 50
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.1203-00196
+OBJ_NAME: Шаблон проф.
+OBJ_TYPE: aSE_Osn
+OCC_TYPE: MEMachineTool
+OBJ_POZ: 60
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Зазор   между профилем     детали и профилем шаблона не более 0.8.
+OBJ_NAME: Химическое пассивирование
+OBJ_TYPE: MEOP
+OBJ_POZ: 105
+RESURS_COUNT: 3
+OBJ_OBOZN: 602.25271.00206
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.027
+OBJ_NAME: Цех 027
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Ванна
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Контроль приемочный
+OBJ_TYPE: MEOP
+OBJ_POZ: 110
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-50
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Стол контрольный
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Консервация
+OBJ_TYPE: MEOP
+OBJ_POZ: 115
+RESURS_COUNT: 3
+OBJ_OBOZN: ИОТ-192
+OBJ_TYPE: aDocument
+OCC_TYPE: MEOther
+OBJ_POZ: 10
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_OBOZN: 602.020
+OBJ_NAME: Цех 020
+OBJ_TYPE: MEDepartment
+OCC_TYPE: MEWorkArea
+OBJ_POZ: 20
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+OBJ_NAME: Верстак
+OBJ_TYPE: Mfg0MENCMachine
+OCC_TYPE: PMZ9_occ_equipment
+OBJ_POZ: 30
+OBJ_COUNT: 1
+OBJ_UNIT: шт
+PARAM_TYPE: Переход
+PARAM_NUM: 10
+PARAM_DESC: Завернуть деталь в парафинированную бумагу БП-3-35 ГОСТ 9569-2006 или
+PARAM_TYPE: Переход
+PARAM_NUM: 20
+PARAM_DESC: Завернуть деталь в оберточную бумагу ГОСТ 8273-75
+PARAM_TYPE: Переход
+PARAM_NUM: 30
+PARAM_DESC: Срок хранения 4 года

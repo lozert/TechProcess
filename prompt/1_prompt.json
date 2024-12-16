@@ -1,0 +1,73 @@
+[
+    {
+        "role": "system",
+        "text": "Ты главный технолог крупной авиационной компании ООО Авиадвигатель."
+    },
+
+    {
+        "role": "user",
+        "text": "Используя описание технического чертежа детали (ДСЕ) 'Завихритель', создай технологический процесс (ТП) для изготовления данной ДСЕ. Следуй четкой инструкцмм для ответа. Не пиши лишних слов. Инструкцию я тебе прикреплю ниже.",
+        "draw_annotation_path": "/Users/vd/Desktop/Work/Pish/2024/project/prompts/image/Onkov/responses/3_prompt/Draw05.txt",
+        "instruction_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/Обозначения из ТП.txt"
+    },
+    {
+        "role": "assistant",
+        "text": " ",
+        "tp_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/ТП2_parsed.txt"
+    },
+
+    {
+        "role": "user",
+        "text": "Используя описание технического чертежа детали (ДСЕ) 'Крышка', создай технологический процесс (ТП) для изготовления данной ДСЕ. Следуй четкой инструкцмм для ответа. Не пиши лишних слов. Инструкцию я тебе прикреплю ниже.",
+        "draw_annotation_path": "/Users/vd/Desktop/Work/Pish/2024/project/prompts/image/Onkov/responses/3_prompt/Draw12.txt",
+        "instruction_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/Обозначения из ТП.txt"
+    },
+    {
+        "role": "assistant",
+        "text": " ",
+        "tp_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/ТП4_parsed.txt"
+    },
+
+    {
+        "role": "user",
+        "text": "Используя описание технического чертежа детали (ДСЕ) 'Кольцо сферическое', создай технологический процесс (ТП) для изготовления данной ДСЕ. Следуй четкой инструкцмм для ответа. Не пиши лишних слов. Инструкцию я тебе прикреплю ниже.",
+        "draw_annotation_path": "/Users/vd/Desktop/Work/Pish/2024/project/prompts/image/Onkov/responses/3_prompt/Draw17.txt",
+        "instruction_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/Обозначения из ТП.txt"
+    },
+    {
+        "role": "assistant",
+        "text": " ",
+        "tp_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/ТП7_parsed.txt"
+    },
+
+    {
+        "role": "user",
+        "text": "Используя описание технического чертежа детали (ДСЕ) 'Упор на1', создай технологический процесс (ТП) для изготовления данной ДСЕ. Следуй четкой инструкцмм для ответа. Не пиши лишних слов. Инструкцию я тебе прикреплю ниже.",
+        "draw_annotation_path": "/Users/vd/Desktop/Work/Pish/2024/project/prompts/image/Onkov/responses/3_prompt/Draw19.txt",
+        "instruction_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/Обозначения из ТП.txt"
+    },
+    {
+        "role": "assistant",
+        "text": " ",
+        "tp_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/ТП8_parsed.txt"
+    },
+
+    {
+        "role": "user",
+        "text": "Используя описание технического чертежа детали (ДСЕ) 'Штанга', создай технологический процесс (ТП) для изготовления данной ДСЕ. Следуй четкой инструкцмм для ответа. Не пиши лишних слов. Инструкцию я тебе прикреплю ниже.",
+        "draw_annotation_path": "/Users/vd/Desktop/Work/Pish/2024/project/prompts/image/Onkov/responses/3_prompt/Draw20.txt",
+        "instruction_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/Обозначения из ТП.txt"
+    },
+    {
+        "role": "assistant",
+        "text": " ",
+        "tp_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/ТП9_parsed.txt"
+    },
+
+    {
+        "role": "user",
+        "text": "Используя описание технического чертежа детали (ДСЕ) 'Качалка', создай технологический процесс (ТП) для изготовления данной ДСЕ. Следуй четкой инструкции для ответа. Не пиши лишних слов и не выдумывай ответ, если не знаешь. Говори, что не знаешь, если это так. Инструкцию я тебе прикреплю ниже. Изучи технологический процесс, который я написал. Тебе нужно заполнить пустые места. Весь технологический процесс не пиши. Напиши только последние пропущенные строки ТП. Новые пункты добавлять не нужно. Технологический процесс: PARENT_NAME: КАЧАЛКА\nPARENT_TIME: 25.5\nPARENT_TYPE_TD: Единичный\nPARENT_TRUD: 0.0\nTARGETS | OBJ_NAME: КАЧАЛКА\nTARGETS | OBJ_MD: 5.0\nCHILDS_OBJ | OPERS_COUNT: 34\nCHILDS_OBJ | ZAGOT_COUNT: 1\nCHILDS_OBJ | OBJ_NAME: КАЧАЛКА\nCHILDS_OBJ | MATERIAL: 03Н18К8М5Т-ИД(ВКС170-ИД) ТУ 14-131-1113-2013\nCHILDS_OBJ | MARKA_KE: 03Н18К8М5Т-ИД(ВКС170-ИД)\nCHILDS_OBJ | EV: кг\nCHILDS_OBJ | NORMA: 17.5\nCHILDS_OBJ | OBJ_KIM: 0.286\nCHILDS_OBJ | VID_Z: Поковка\nCHILDS_OBJ | KOL: 1.0\nCHILDS_OBJ | M_ZAG: 17.5\nCHILDS_OBJ | OTHOD: 11.875\nOBJ | OBJ_NAME: Контроль\nOBJ | OBJ_TYPE: MEOP\nOBJ | OBJ_POZ: 005\nOBJ | OBJ_DESC: Межоперационная консервация в нитрите натрия по ТИ 602.25208.00260\nНахождение детали без консервации более 4 часов не допускается.\nПосле опер.065 (старение) подбор режущего инструмента и режимов резания выполнять по РТМ540-029 как для пятой группы обрабатываемости.\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Контроль выполнения входного контроля заготовки (закалка, мех. испытания, УЗК,  подбор режима старения).\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Контроль наличия документов по подбору режимов старения.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 30\nPARAM | PARAM_DESC: Контроль наличия образцов (2 шт.): разрывного и ударного.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 40\nPARAM | PARAM_DESC: Контроль наличия маркировки: обозначение; марка материала; номер плавки; шифр заготовки и порядковый номер в партии на детали. Контроль наличия трехзначной маркировки на образцах.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 50\nPARAM | PARAM_DESC: Присвоить индивид. № детали, записать в сопроводительную карту.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 60\nPARAM | PARAM_DESC: Перенести маркировку с детали  в сопроводительную карту.\nPARAM | OBJ_NAME: Разметка\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 010\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Разметить деталь для операции 015, если потребуется.\nPARAM | OBJ_NAME: Фрезерная\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 015\nPARAM | OBJ_TIME: 5.000\nRESURS | RESURS_COUNT: 3\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 020\nRESURS | OBJ_TIME: 0.667\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Зачистить заусенцы по контуру детали.\nPARAM | OBJ_NAME: Шлифовальная\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 025\nPARAM | OBJ_TIME: 1.500\nRESURS | RESURS_COUNT: 3\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 030\nRESURS | OBJ_TIME: 0.333\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Зачистить заусенцы по контуру детали.\nPARAM | OBJ_NAME: Расточная\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 035\nPARAM | OBJ_TIME: 3.500\nRESURS | RESURS_COUNT: 4\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 040\nRESURS | OBJ_TIME: 0.333\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Притупить острые кромки 0,1...0,4 по отв.\nPARAM | OBJ_NAME: Фрезерная с ЧПУ\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 045\nPARAM | OBJ_TIME: 3.000\nRESURS | RESURS_COUNT: 6\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 050\nRESURS | OBJ_TIME: 0.500\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Притупить острые кромки 0,1...0,4 по контуру.\nPARAM | OBJ_NAME: Промывка раствором П-9\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 055\nRESURS | RESURS_COUNT: 4\nRESURS | OBJ_NAME: Контроль\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 060\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Контроль по опер.015...050.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Проверить наличие маркировки согл.КЭ-4.\nPARAM | OBJ_NAME: Старение\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 065\nPARAM | OBJ_DESC: Отправить деталь и 2 образца (разрывной и ударный) в ц.27.\nВместе с деталью и образцами в ц.27 отправить результаты подбора режимов старения.\nRESURS | RESURS_COUNT: 5\nRESURS | OBJ_NAME: Обдувка\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 070\nRESURS | RESURS_COUNT: 4\nRESURS | OBJ_NAME: Маркирование\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 075\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Восстановить маркировку обозначения и индив.№ дет.согл.КЭ-2, если потребуется.\nPARAM | OBJ_NAME: Шлифовальная\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 080\nPARAM | OBJ_TIME: 1.500\nRESURS | RESURS_COUNT: 3\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 085\nRESURS | OBJ_TIME: 0.417\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Притупить острые кромки 0,1...0,4.\nPARAM | OBJ_NAME: Фрезерная с ЧПУ\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 090\nPARAM | OBJ_TIME: 1.500\nRESURS | RESURS_COUNT: 5\nRESURS | OBJ_NAME: Фрезерная с ЧПУ\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 095\nRESURS | OBJ_TIME: 0.750\nRESURS | RESURS_COUNT: 3\nRESURS | OBJ_NAME: Расточная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 100\nRESURS | OBJ_TIME: 5.500\nRESURS | RESURS_COUNT: 5\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Выполнлнить 3 отв. Ф46+0,025 согл.черт.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Контролировать по ТИ602.25001.00217 раздел 5.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 30\nPARAM | PARAM_DESC: Выполнить 4 канавки согл.черт.(А).\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 40\nPARAM | PARAM_DESC: Снять фаски 0,8+0,3х45° в центральном отв. согл.черт.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 50\nPARAM | PARAM_DESC: Операцию выполнять за несколько установов.\nPARAM | OBJ_NAME: Слесарная\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 105\nPARAM | OBJ_TIME: 1.000\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Зачистить уступы по R2,5 контура детали.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Притупить острые кромки 0,1...0,4, кромки И не притуплять согл.черт.(А).\nPARAM | OBJ_NAME: Промывка раствором П-9\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 110\nRESURS | RESURS_COUNT: 4\nRESURS | OBJ_NAME: Контроль визуальный\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 115\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Контроль визуальный на отсутствие дефектов механического происхождения (риски, забоины, вмятины и др.)\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Контроль шероховатости на соответствие черт.\nPARAM | OBJ_NAME: Контроль магнитопорошковый\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 120\nRESURS | RESURS_COUNT: 5\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Контроль СОН\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Намагнитить циркулярно пропусканием тока I1=(4000±400) А по стержню, вставленному поочередно в отверстия детали.\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 30\nPARAM | PARAM_DESC: Намагнитить циркулярно пропусканием тока I2=(3350±335) А по детали вдоль размера 340 мм (см.черт.).\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 40\nPARAM | PARAM_DESC: Намагнитить продольно в поле Н≥250 Э, направление поля вдоль размера 340 мм (см.черт.).\nPARAM | OBJ_NAME: Промывка нефрасом\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 125\nRESURS | RESURS_COUNT: 4\nRESURS | OBJ_NAME: Маркирование\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 130\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE:\nPARAM | PARAM_NUM:\nPARAM | PARAM_DESC:\nPARAM | OBJ_NAME:\nPARAM | OBJ_TYPE:\nPARAM | OBJ_POZ:\nRESURS | RESURS_COUNT:\nPARAM | PARAM_TYPE:\nPARAM | PARAM_NUM:\nPARAM | PARAM_DESC:\nPARAM | OBJ_NAME:\nPARAM | OBJ_TYPE:\nPARAM | OBJ_POZ:\nRESURS | RESURS_COUNT: 3\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 145\nRESURS | RESURS_COUNT: 4\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Собрать деталь с приспособлением  для опер.150.\nPARAM | OBJ_NAME: Окрашивание\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 150\nRESURS | RESURS_COUNT: 3\nRESURS | OBJ_NAME: Слесарная\nRESURS | OBJ_TYPE: MEOP\nRESURS | OBJ_POZ: 155\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Разобрать деталь с приспособлением  .\nPARAM | OBJ_NAME: Маркирование согласно чертежу\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 160\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Маркировать с бирки обозначение и индив.№ дет.\nPARAM | OBJ_NAME: Контроль приемочный\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 165\nRESURS | RESURS_COUNT: 4\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Заполнить паспорт.\nPARAM | OBJ_NAME: Консервация\nPARAM | OBJ_TYPE: MEOP\nPARAM | OBJ_POZ: 170\nRESURS | RESURS_COUNT: 3\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 10\nPARAM | PARAM_DESC: Консервировать маслом К-17 неокрашенные поверхности детали\nPARAM | PARAM_TYPE: Переход\nPARAM | PARAM_NUM: 20\nPARAM | PARAM_DESC: Срок хранения 2 года",
+        "draw_annotation_path": "/Users/vd/Desktop/Work/Pish/2024/project/prompts/image/Onkov/responses/3_prompt/Draw01.txt",
+        "instruction_path": "/Users/vd/Desktop/Work/Pish/2024/project/data/tp/Обозначения из ТП.txt"
+    }
+]
